@@ -1,4 +1,4 @@
-<h1> Hello, I'm Nursultan 👋 </h1>
+<h1> Hey, I'm Nursultan 👋 </h1>
 
 
 
