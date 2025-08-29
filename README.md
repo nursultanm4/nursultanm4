@@ -1,6 +1,6 @@
 
 
-## Hi👋 I'm Nursultan
+# Hi👋 I'm Nursultan
 I'm a Full-stack & AI Software Engineer<br>🤝 Open to opportunities, feel free to reach out<br>⚡ Currently deepening my AI knowledge<br>
 
 
