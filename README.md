@@ -8,5 +8,5 @@
 ## Skill Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,nodejs,react,postgresql,mongo,git,docker&theme=dark)](https://skillicons.dev)
 
--**Also comfortable with:** TypeScript, basic CI/CD pipelines, Celery, Redis, CSS
+#### **Also comfortable with:** TypeScript, basic CI/CD pipelines, Celery, Redis, CSS
 
