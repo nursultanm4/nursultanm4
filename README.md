@@ -6,7 +6,7 @@
 - Open to opportunities, feel free to reach out
 
 ## Skill Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,react,postgresql,mongo,git,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgresql,docker,react,mongo,git,&theme=dark)](https://skillicons.dev)
 
 #### **Also comfortable with:** TypeScript, basic CI/CD pipelines, Celery, Redis, CSS
 
