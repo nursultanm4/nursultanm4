@@ -1,7 +1,7 @@
 
 
 # 🌉 Hi, I'm Nursultan
-- Backend & AI Software Engineering
+- Backend & AI SWE
 - Currently deepening my AI knowledge
 - Open to opportunities, feel free to reach out
 
