@@ -1,7 +1,7 @@
 
 
 ### 🌉 Hi, I'm Nursultan
-- Full-stack & AI SWE
+- Backend & AI SWE
 - Interested in building scalable systems, LLM integration and efficient problem solving 
 - Currently deepening my AI knowledge
 
