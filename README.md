@@ -1,7 +1,6 @@
 
 
-### 🌉 Hi, I'm Nursultan
-- Software Engineering
+### 🌉 Hi, I'm Nursultan, becoming a software engineer
 - Focused on building scalable products, backend development and efficient problem solving 
 - Currently volunteering at ITEENS
 
