@@ -1,7 +1,7 @@
 
 
 ### 🌉 Hi, I'm Nursultan
-- Focused on building scalable products, backend development and efficient problem solving 
-- Experienced with: Python, TypeScript, FastAPI, React, PostgreSQL, MongoDB, + docker, redis
+- Focused on building scalable products and efficient problem solving 
+- Experienced with: Python, JavaScript, FastAPI, TypeScript, React, PostgreSQL, MongoDB, + docker, redis
 
 
