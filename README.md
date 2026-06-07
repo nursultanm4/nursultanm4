@@ -1,2 +1,3 @@
 ### 🌉 Hi, I'm Nursultan
-Focused on building scalable products and efficient problem solving.
+focused on building scalable products and efficient problem solving.
+now: working at Ratio, going deeper into AI, Systems Engineering.
